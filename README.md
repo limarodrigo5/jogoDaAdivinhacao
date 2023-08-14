@@ -2,6 +2,13 @@
 
 Bem-vindo ao Jogo da Adivinhação! Este é um simples projeto em JavaScript que desafia você a adivinhar um número entre 0 e 10, gerado aleatoriamente pelo sistema.
 
+## Conteúdos Abordados 📚
+
+- Uso de loops (while)
+- Geração de números aleatórios
+- Comparação de valores
+- Estrutura básica de um programa JavaScript
+
 ## Objetivo 🎯
 
 O objetivo deste jogo é testar a sua intuição e habilidade em adivinhar um número. Você receberá feedback após cada tentativa, e o jogo continuará até você adivinhar corretamente.
